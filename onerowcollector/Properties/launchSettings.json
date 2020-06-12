@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "onerowcollector": {
+      "commandName": "Project",
+      "commandLineArgs": "www.microsoft.com"
+    }
+  }
+}
